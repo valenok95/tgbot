@@ -1,0 +1,59 @@
+{
+    "search_params": {
+        "directions": [
+            {
+                "origin": "MOW",
+                "destination": "LED",
+                "date": "2022-10-07"
+            }
+        ],
+        "passengers": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+        },
+        "trip_class": "Y"
+    },
+    "client_features": {
+        "direct_flights": true,
+        "brand_ticket": true,
+        "top_filters": true,
+        "badges": true,
+        "tour_tickets": true,
+        "assisted": true
+    },
+    "marker": "google",
+    "market_code": "ru",
+    "citizenship": "RU",
+    "currency_code": "rub",
+    "languages": {
+        "ru": 1
+    },
+    "debug": {
+        "experiment_groups": {
+            "serp-exp-virtualInterline": "on",
+            "serp-exp-pinFlight": "on",
+            "serp-exp-baggageUpsale": "on",
+            "asb-exp-footerButton": "off",
+            "asb-exp-ticketsVersion": "v2",
+            "asb-exp-insurance": "separate",
+            "avs-exp-downgradedGates": "on",
+            "asb-exp-feedback": "form",
+            "avs-exp-comparisonWidget": "on",
+            "avs-exp-aa": "on",
+            "ex-exp-zeroStateContent": "treatment",
+            "serp-exp-travelRestrictions": "on",
+            "guides-exp-travelMapBanner": "treatment-labels",
+            "guides-exp-feed": "on",
+            "serp-exp-marketingOperatingCarrier": "on",
+            "b2b-exp-signin": "on",
+            "avs-exp-newAutocomplete": "on",
+            "serp-exp-softFilters": "on",
+            "serp-exp-scoring": "on",
+            "serp-exp-ota": "off",
+            "serp-exp-versusDrawer": "on",
+            "prem-exp-landingV3AviacashbackOffer": "off"
+        }
+    },
+    "brand": "AS"
+}
